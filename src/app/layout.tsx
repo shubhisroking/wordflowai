@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "WordFlowAI",
-  description: "WordFlowAI AI powered vocabulary builder.",
+  title: "VaxxyAI",
+  description: "VaxxyAI AI powered vocabulary builder.",
 };
 
 export default function RootLayout({
