@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "wordflowai",
+      "name": "vaxxyai",
       "dependencies": {
         "@ai-sdk/openai": "^2.0.23",
         "@ai-sdk/openai-compatible": "^1.0.14",
