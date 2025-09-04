@@ -11,7 +11,8 @@ export function BackgroundRippleEffectDemo() {
           WordFlowAI
         </h2>
         <p className="relative z-10 mx-auto mt-4 max-w-xl text-center text-neutral-800 dark:text-neutral-500">
-            All in one preparation tool for IPMAT, IIFT, XAT and other MBA entrance exams.
+          All in one preparation tool for IPMAT, IIFT, XAT and other MBA
+          entrance exams.
         </p>
       </div>
     </div>
